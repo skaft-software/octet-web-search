@@ -1,0 +1,171 @@
+{
+  "schema_version": 1,
+  "repository": "https://github.com/skaft-software/octet",
+  "revision": "6b0717548d420909b3ee991bf940011e578b12eb",
+  "source_path": "extensions/octet-web-search",
+  "status": "staged-source-snapshot",
+  "files": [
+    {
+      "path": "LICENSE",
+      "source_path": "extensions/octet-web-search/LICENSE",
+      "mode": "100644",
+      "sha256": "043b63b2a2b0a52fdf7ac5364309806a1a0de497318c874a27b69497f9d030b7"
+    },
+    {
+      "path": "README.md",
+      "source_path": "extensions/octet-web-search/README.md",
+      "mode": "100644",
+      "sha256": "426d6b868423f833dd35c5c49549d0888e44360ac0cdfcc61038b4c283075841"
+    },
+    {
+      "path": "REFERENCE.md",
+      "source_path": "extensions/octet-web-search/REFERENCE.md",
+      "mode": "100644",
+      "sha256": "6c61d37baa600a6ab6998db40d8c52c2c4d1ab920812ecefff291f2cef078378"
+    },
+    {
+      "path": "config.example.json",
+      "source_path": "extensions/octet-web-search/config.example.json",
+      "mode": "100644",
+      "sha256": "7449830eb2b229bf6c7dc0f472255bd8c0e8c414e586000b69b158cc4368003b"
+    },
+    {
+      "path": "config.schema.json",
+      "source_path": "extensions/octet-web-search/config.schema.json",
+      "mode": "100644",
+      "sha256": "aba7919164d472caa0989655b934bb45beaf738f151a057100d7479c0ecae6e2"
+    },
+    {
+      "path": "extension.py",
+      "source_path": "extensions/octet-web-search/extension.py",
+      "mode": "100755",
+      "sha256": "a4f25fcbba3f2b8c499b6cb94256b15065c6bbbaf1e9322c523743e5262565de"
+    },
+    {
+      "path": "extension.toml",
+      "source_path": "extensions/octet-web-search/extension.toml",
+      "mode": "100644",
+      "sha256": "9aead8f46f168acf44821edc1d54529a8d1ef9b36317b4f794bef07066ca9009"
+    },
+    {
+      "path": "fixtures/presentation.schema.json",
+      "source_path": "extensions/octet-web-search/fixtures/presentation.schema.json",
+      "mode": "100644",
+      "sha256": "b81aeedec1d62115d63f4aad0369efac44928046fba956fd5eb7b9825bf3a523"
+    },
+    {
+      "path": "fixtures/presentation/cancelled.json",
+      "source_path": "extensions/octet-web-search/fixtures/presentation/cancelled.json",
+      "mode": "100644",
+      "sha256": "6ebd3d995e0d99eb617c7accea7f619e15e0db545d5199a2c9bccf3510c2143e"
+    },
+    {
+      "path": "fixtures/presentation/configured.json",
+      "source_path": "extensions/octet-web-search/fixtures/presentation/configured.json",
+      "mode": "100644",
+      "sha256": "61f73defe4445487bf00604baa2153aea0f5ff46c699120e2ef76da461e63204"
+    },
+    {
+      "path": "fixtures/presentation/disabled.json",
+      "source_path": "extensions/octet-web-search/fixtures/presentation/disabled.json",
+      "mode": "100644",
+      "sha256": "abbe3f1557a3e474040777cc65f5ffa554bf474b1447bc6e4eb4dbb29fc77c71"
+    },
+    {
+      "path": "fixtures/presentation/offline.json",
+      "source_path": "extensions/octet-web-search/fixtures/presentation/offline.json",
+      "mode": "100644",
+      "sha256": "a1277a8fee98b84f6cf2d52e32256c195193cdafc6e57f1c3c658bfc29b5b672"
+    },
+    {
+      "path": "fixtures/presentation/progress.json",
+      "source_path": "extensions/octet-web-search/fixtures/presentation/progress.json",
+      "mode": "100644",
+      "sha256": "6115ccb95e3201a1586f35d1da76548f8601e6bda4908f22c46de27b7ebde2e8"
+    },
+    {
+      "path": "fixtures/presentation/provider-failed.json",
+      "source_path": "extensions/octet-web-search/fixtures/presentation/provider-failed.json",
+      "mode": "100644",
+      "sha256": "3a1ca35bad8d73e297472ef5da75610a5a0684c7fae073373505f64d6034ab58"
+    },
+    {
+      "path": "fixtures/presentation/reconnect.json",
+      "source_path": "extensions/octet-web-search/fixtures/presentation/reconnect.json",
+      "mode": "100644",
+      "sha256": "a631af7165f9d841e7b633c83c71b57a7d8000fd9b481e305c8df0e50c1f8b12"
+    },
+    {
+      "path": "fixtures/presentation/stale-generation.json",
+      "source_path": "extensions/octet-web-search/fixtures/presentation/stale-generation.json",
+      "mode": "100644",
+      "sha256": "383982a0534311506468fd87bc8f8d9f7d45093cd44104a8dd68d04f04f36983"
+    },
+    {
+      "path": "fixtures/presentation/success-citations.json",
+      "source_path": "extensions/octet-web-search/fixtures/presentation/success-citations.json",
+      "mode": "100644",
+      "sha256": "d62268481d985fe1e5e9303e79031dbe59b36c979ff53d6594d8b0963120ad20"
+    },
+    {
+      "path": "octet_extension/__init__.py",
+      "source_path": "extensions/octet-web-search/octet_extension/__init__.py",
+      "mode": "100644",
+      "sha256": "81923364bca79a2a981e8e6d14f0117aa62094297fc38ea6bfa1228ed962cd39"
+    },
+    {
+      "path": "octet_extension/extension.py",
+      "source_path": "extensions/octet-web-search/octet_extension/extension.py",
+      "mode": "100644",
+      "sha256": "8da522c416a6de986dc68bf8f09a68b16c72d4c05d0c33e88df329cb6a5158c9"
+    },
+    {
+      "path": "octet_extension/protocol.py",
+      "source_path": "extensions/octet-web-search/octet_extension/protocol.py",
+      "mode": "100644",
+      "sha256": "44eaa235b16cc4991c2ef4d695b466a3ce84fb22ea0b12ce3776bebaa7448e02"
+    },
+    {
+      "path": "provider.py",
+      "source_path": "extensions/octet-web-search/provider.py",
+      "mode": "100644",
+      "sha256": "ad326258cd8f797ac26adb316ced25ab6d87bd87b70b0d5c6d04e3af78ba1b98"
+    },
+    {
+      "path": "skills/octet-web-search/SKILL.md",
+      "source_path": "extensions/octet-web-search/skills/octet-web-search/SKILL.md",
+      "mode": "100644",
+      "sha256": "fc89c6ce528c6fbc7b17626efb93fa17272de25aff20b0c97663fe59c5a9163a"
+    },
+    {
+      "path": "tests/fixtures/tls-localhost.pem",
+      "source_path": "extensions/octet-web-search/tests/fixtures/tls-localhost.pem",
+      "mode": "100644",
+      "sha256": "13ba15a6b311d59bf7586563f4089a89702f09cfe3694b01ae6dec16a8fb90de"
+    },
+    {
+      "path": "tests/test_http_deadline.py",
+      "source_path": "extensions/octet-web-search/tests/test_http_deadline.py",
+      "mode": "100644",
+      "sha256": "b2267519d67134831ad70cc71d8f187f14f3bb3db92db09338fccbc5efe7d479"
+    },
+    {
+      "path": "tests/test_provider.py",
+      "source_path": "extensions/octet-web-search/tests/test_provider.py",
+      "mode": "100644",
+      "sha256": "e0c61766f727f90c42085dcc25e5e4acf87268bd97bb663880b627857b31723b"
+    },
+    {
+      "path": "tests/test_release_and_fixtures.py",
+      "source_path": "extensions/octet-web-search/tests/test_release_and_fixtures.py",
+      "mode": "100644",
+      "sha256": "c92df3222321d8761377a76babaf7045c607f3deaac9f79b15da6a7be77d6e64"
+    },
+    {
+      "path": "tests/test_runtime.py",
+      "source_path": "extensions/octet-web-search/tests/test_runtime.py",
+      "mode": "100644",
+      "sha256": "902d30f32ef0121867f9a84967743cf9c4380453970b10bd4adabf5b16f37e61"
+    }
+  ]
+}
